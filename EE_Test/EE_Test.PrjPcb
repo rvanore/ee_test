@@ -166,11 +166,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=AssemblyNumber
+Name=ProjectTitle
 Value=
 
 [Parameter2]
-Name=AssemblyRevision
+Name=BoardRevision
 Value=
 
 [Parameter3]
@@ -178,12 +178,12 @@ Name=BoardPartNumber
 Value=
 
 [Parameter4]
-Name=BoardRevision
+Name=AssemblyRevision
 Value=
 
 [Parameter5]
-Name=ProjectTitle
-Value=
+Name=AssemblyNumber
+Value=test
 
 [Configuration1]
 Name=Sources
