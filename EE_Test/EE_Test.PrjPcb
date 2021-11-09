@@ -171,15 +171,15 @@ Value=test
 
 [Parameter2]
 Name=AssemblyRevision
-Value=
+Value=0.1
 
 [Parameter3]
 Name=BoardPartNumber
-Value=
+Value=test
 
 [Parameter4]
 Name=BoardRevision
-Value=
+Value=0.1
 
 [Parameter5]
 Name=ProjectTitle
