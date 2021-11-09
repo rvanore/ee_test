@@ -165,20 +165,12 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[ProjectVariant1]
-UniqueID=CE984F22-FFBF-43D3-8556-38C3D4FA2414
-Description=Largerboard
-AllowFabrication=1
-ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
-
 [Parameter1]
-Name=ProjectTitle
-Value=
+Name=AssemblyNumber
+Value=test
 
 [Parameter2]
-Name=BoardRevision
+Name=AssemblyRevision
 Value=
 
 [Parameter3]
@@ -186,12 +178,12 @@ Name=BoardPartNumber
 Value=
 
 [Parameter4]
-Name=AssemblyRevision
+Name=BoardRevision
 Value=
 
 [Parameter5]
-Name=AssemblyNumber
-Value=test
+Name=ProjectTitle
+Value=
 
 [Configuration1]
 Name=Sources
